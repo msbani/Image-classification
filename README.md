@@ -3,7 +3,7 @@
 
 ### Project Summary:
 
-This project focuses on developing a **machine learning model** using **PyTorch** to classify animal images into **three distinct categories — Panda, Cat,** and **Dog.**
+This project focuses on developing a **machine learning model** using **PyTorch** to classify animal images into **three distinct categories Panda, Cat,** and **Dog.**
 The model leverages **deep learning techniques** for feature extraction and image classification, providing accurate predictions across multiple image inputs.
 
 ---
