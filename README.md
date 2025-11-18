@@ -10,7 +10,7 @@ The model leverages **deep learning techniques** for feature extraction and imag
 
 ### 📸 Dataset Description:
 
-The dataset comprises a total of **2,400 labeled images** across **three animal classes — Panda, Cat,** and **Dog.**
+The dataset comprises a total of **2,400 labeled images** across **three animal classes Panda, Cat,** and **Dog.**
 Each image is preprocessed and standardized for consistent model training and evaluation.
 
 ### Dataset Split:
