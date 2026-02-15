@@ -71,6 +71,4 @@ To enhance generalization and reduce overfitting, several **data augmentation te
 
 ### Accuracy on Test Dataset for Kaggle Submission
 
-The configurations discussed above, yielded a score of **0.965** on the Kaggle's Leaderboard.
-
-![](./visuals/animal_classification_kaggle_leaderboard.png?raw=true)
+The configurations discussed above, yielded a score of **0.85** on the Kaggle's Leaderboard.
